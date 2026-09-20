@@ -1,0 +1,15 @@
+{
+  "name": "cc-sidecar",
+  "description": "Marketplace for the cc-sidecar Claude Code plugin",
+  "owner": {
+    "name": "HoshimuraYuto",
+    "url": "https://github.com/HoshimuraYuto"
+  },
+  "plugins": [
+    {
+      "name": "cc-sidecar",
+      "source": "./",
+      "description": "See what codex, claude and gemini do when Claude Code delegates to them from Bash"
+    }
+  ]
+}

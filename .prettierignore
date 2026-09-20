@@ -1,0 +1,5 @@
+.git
+node_modules
+pnpm-lock.yaml
+CHANGELOG.md
+.claude/types

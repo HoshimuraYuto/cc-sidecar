@@ -1,0 +1,22 @@
+{
+  "name": "cc-sidecar",
+  "version": "0.0.0",
+  "description": "See what codex, claude and gemini do when Claude Code delegates to them from Bash",
+  "author": {
+    "name": "HoshimuraYuto",
+    "url": "https://github.com/HoshimuraYuto"
+  },
+  "homepage": "https://github.com/HoshimuraYuto/cc-sidecar",
+  "repository": "https://github.com/HoshimuraYuto/cc-sidecar",
+  "license": "MIT",
+  "keywords": ["claude-code", "plugin", "codex", "gemini", "delegation"],
+  "userConfig": {
+    "mode": {
+      "type": "string",
+      "title": "Display mode",
+      "description": "Where delegated agent runs show: pane, hint (prompt hint line), both, or off",
+      "options": ["pane", "hint", "both", "off"],
+      "default": "pane"
+    }
+  }
+}

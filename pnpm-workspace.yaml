@@ -1,0 +1,9 @@
+pmOnFail: error
+minimumReleaseAge: 4320
+trustPolicy: no-downgrade
+trustPolicyIgnoreAfter: 43200
+auditLevel: high
+blockExoticSubdeps: true
+strictDepBuilds: true
+allowBuilds:
+  lefthook: true
