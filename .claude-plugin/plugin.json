@@ -1,6 +1,6 @@
 {
   "name": "cc-sidecar",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "See what codex, claude and gemini do when Claude Code delegates to them from Bash",
   "author": {
     "name": "HoshimuraYuto",
